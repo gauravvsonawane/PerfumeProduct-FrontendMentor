@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://github.com/gauravvsgithub/PerfumeProduct-FrontendMentor)
+- Live Site URL: [Click Me](https://gauravvsgithub.github.io/PerfumeProduct-FrontendMentor/)
 
 ## My process
 

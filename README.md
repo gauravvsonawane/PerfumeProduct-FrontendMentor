@@ -9,7 +9,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Screenshots
+#### Desktop
+ ![image](https://github.com/gauravvsgithub/PerfumeProduct-FrontendMentor/assets/54109748/aab59fe2-60ce-4164-857d-94691b54b0e3)
+#### Mobile
+ ![image](https://github.com/gauravvsgithub/PerfumeProduct-FrontendMentor/assets/54109748/c03bcd7e-01d2-459f-b088-c1184ae29382)
+
+
 
 ### Links
 
